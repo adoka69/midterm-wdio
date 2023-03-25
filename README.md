@@ -2,7 +2,7 @@
 
 1. Clone this repo onto your local machine
 
-2. Insall all dependencies 
+2. Install all dependencies 
 ```npm install ```
 
 3. Test will run in headless mode by default  
