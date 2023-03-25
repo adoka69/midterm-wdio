@@ -1,0 +1,54 @@
+Introduction:
+The purpose of this test plan is to provide a roadmap for testing the login page and client page of the application. It outlines the approach, scope, and test activities required for ensuring that both pages function correctly and meet specified requirements.
+
+Purpose:
+The purpose of this test plan is to verify that the login page and client page of the application are working correctly and meet all requirements. It includes the testing approach, design techniques, and test environment.
+
+Scope:
+This test plan covers the functional testing of the login page and client page of the application. The pages' features and functionalities will be tested to ensure they work as expected.
+
+Definition:
+• Login page: This page allows users to enter their credentials to authenticate themselves.
+• Client page: This page enables users to view, create, and edit client data.
+
+Test Items:
+This plan includes the testing of the following pages of the application:
+• Login page
+- User authentication: Verify that users can log in to the application using their credentials.
+- Error messages: Confirm that appropriate error messages are displayed when users enter incorrect or incomplete login information.
+• Client page
+- Data display: Test the functionality of the user dashboard and ensure that it displays the clients' data.
+- Add clients: Verify that users can add new clients by clicking the add client button and inputting client data.
+- Edit clients: Test the edit client functionality and ensure users can change client data.
+- View clients: Ensure that users can view the client details by clicking the client data.
+
+Features to be Tested:
+This test plan covers the following features to be tested:
+• Login page
+- Login with invalid credentials: Confirm that users cannot log in without valid credentials.
+- Login with valid credentials: Verify that users can log in to the system using their valid credentials.
+• Client page
+- Create client: Test that users can add new clients by clicking the add client button and inputting the client data.
+- Edit client: Test that users can edit the client data by clicking the client and changing the client data.
+- View client: Verify that the view client feature works perfectly to view client details.
+
+Features not to be Tested:
+This test plan does not cover the testing of the following features:
+• Legal Entities
+• Loyalty
+• Referral system
+• Stock
+• Coupons
+• Notification
+• Report
+
+Approach:
+The following approach will be used for testing the login page and client page of the application:
+• Test Design Techniques: Test cases will be designed using various techniques to ensure all possible scenarios are covered, and the pages' functionalities are thoroughly tested.
+• Test Environment: The testing environment will consist of a dedicated environment that is separate from the production environment. The environment will be set up to simulate real-world usage scenarios and will include a variety of devices and browsers.
+• Test Execution: Testing will be carried out automatically using an automation test framework that follows the test cases designed for the login page and client page. The test cases will be executed multiple times to ensure all possible scenarios are covered.
+• Test Reporting: Issues discovered during testing will be reported to the development team using a standard bug reporting format. The reports will include a description of the issue, steps to reproduce the issue, and screenshots or videos (if necessary) to help illustrate the problem.
+• Test Completion: Once testing is complete, a final report will be prepared that summarizes the testing's results. The report will include a description of the test approach, the testing environment, the results, and any issues discovered during testing. The report will be presented to stakeholders for review and approval before the application is released to production.
+
+Test Deliverables:
+The following test deliverables will be used for testing the login page and client page
