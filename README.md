@@ -14,6 +14,9 @@
 5. Review the results use allure reporting 
 ```npm run allure```
 
+![image](https://user-images.githubusercontent.com/63843401/227697805-9c5af850-14bf-4432-b36e-f33f277db052.png)
+![image](https://user-images.githubusercontent.com/63843401/227697841-c293b130-f590-425c-8ba8-a22b4d304d0c.png)
+
 
 ## Next tests are automated
 
